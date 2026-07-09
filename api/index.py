@@ -198,18 +198,18 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>discord.gg/THxFbreFUy</color>",
+        "BundleKioskButton": "<color=#ff4141>discord.gg/THxFbreFUy</color>",
+        "BundleKioskSign": "<color=#ff4141>discord.gg/THxFbreFUy</color>",
+        "BundleLargeSign": "<color=#ff4141>discord.gg/THxFbreFUy</color>",
+        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>discord.gg/THxFbreFUy</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
         "MOTD": "<color=#FFC0CB>WELCOME TO PROJECT DREAM V3!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ24, also credits to zenon didnt have enough space</color>\n<color=#cacfd2>OWNERS ARE: MK, REAPER, FLY ASH</color>\n<color=#41ff80>ADMINS ARE: DANIEL, ELI</color>\n<color=#6417ff>CO OWNERS: DAVEEPLAYS, SKITTLE</color>\n<color=#ac1a00>STICK HOLDERS: DOMVR, KAIDENVR, TTWBIGWAFFLE</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
-        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
+        "TOBAlreadyOwnCompTxt": "discord.gg/THxFbreFUy",
+        "TOBAlreadyOwnPurchaseBundle": "discord.gg/THxFbreFUy",
+        "TOBDefCompTxt": "discord.gg/THxFbreFUy",
+        "TOBDefPurchaseBtnDefTxt": "discord.gg/THxFbreFUy",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
