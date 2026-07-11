@@ -205,7 +205,7 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO PROJECT DREAM V3!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ24 creds to ya boi zenon</color>\n<color=#cacfd2>OWNERS: MK, REAPER, FLY ASH</color>\n<color=#41ff80>ADMINS: DANIEL, ELI</color>\n<color=#6417ff>CO OWNERS: DAVEEPLAYS, SKITTLE</color>\n<color=#ac1a00>STICK HOLDERS: DOMVR, KAIDENVR, TTWBIGWAFFLE</color>\n\n<color=#91A3B0>JOIN THE DC FEMBOYAG</color>",
+        "MOTD": "<color=#FFC0CB>WELCOME TO PROJECT DREAM V3!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ24 creds to ya boi zenon</color>\n<color=#cacfd2>OWNERS: MK, REAPER, FLY ASH</color>\n<color=#41ff80>ADMINS: DANIEL, ELI</color>\n<color=#6417ff>CO OWNERS: DAVEEPLAYS, SKITTLE</color>\n<color=#ac1a00>STICK HOLDERS: DOMVR, KAIDENVR, TTWBIGWAFFLE</color>\n\n<color=#91A3B0>JOIN THE DC FEMBOY</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
         "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
         "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
